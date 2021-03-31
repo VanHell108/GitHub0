@@ -1,14 +1,14 @@
 package my;
 
 public class User {
-	public String newName;
+	public String Name;
 
     public String getName1() {
-        return newName;
+        return Name;
     }
 
     public void setName1(String name) {
-        this.newName = name;
+        this.Name = name;
     }
 
 
@@ -21,4 +21,11 @@ public class User {
     public void setName(String name) {
         this.myName = name;
     }
+    
+    public static void main(String[] args) {
+    	System.out.println("This is my first change");
+        System.out.println("Stanislav");
+    }
+    
+    
 }
