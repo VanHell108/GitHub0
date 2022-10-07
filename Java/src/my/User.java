@@ -23,7 +23,7 @@ public class User {
     }
     
     public static void main(String[] args) {
-    System.out.println("Change two from Stanislav");
+    System.out.println("Change three from Ivan");
     }
     
     
